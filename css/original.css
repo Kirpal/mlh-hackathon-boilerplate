@@ -53,6 +53,16 @@ section {
   min-height: 110vh;
 }
 
+.hero-image {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  filter: blur(30px);
+  -webkit-filter: blur(30px);
+  -moz-filter: blur(30px);
+}
+
 .hero img {
   max-width: 400px;
 }
