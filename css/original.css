@@ -50,6 +50,7 @@ section {
 
 .hero {
   background-color: #F5699C;
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/b/bb/Bow_High_School%2C_Bow_NH.jpg);
   min-height: 110vh;
 }
 
