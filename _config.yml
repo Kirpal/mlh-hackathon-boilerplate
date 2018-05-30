@@ -48,6 +48,7 @@ event:
           redirect_uri: "https://mlh.github.io/mlh-hackathon-boilerplate/success.html"
       - text: "Sponsor"
         href: "mailto:sponsorship@website.com"
+    image: "https://upload.wikimedia.org/wikipedia/commons/b/bb/Bow_High_School%2C_Bow_NH.jpg"
 
   about:
     description: >
