@@ -53,6 +53,10 @@ section {
   min-height: 110vh;
 }
 
+.hero img {
+  max-width: 400px;
+}
+
 .hero-image {
   position: absolute;
   left: 0;
@@ -61,10 +65,7 @@ section {
   filter: blur(30px);
   -webkit-filter: blur(30px);
   -moz-filter: blur(30px);
-}
-
-.hero img {
-  max-width: 400px;
+  max-width: none;
 }
 
 .hero hr {
@@ -75,6 +76,7 @@ section {
 }
 
 .hero .wrapper {
+  position: relative;
   padding-top: 30vh;
 }
 
